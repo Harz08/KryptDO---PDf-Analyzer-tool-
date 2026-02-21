@@ -306,7 +306,7 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 
 | Name | Role |
 |---|---|
-| Your Name | Developer & Creator |
+| Harz08 | Developer & Creator |
 
 ---
 
