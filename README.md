@@ -94,7 +94,7 @@ PDF_Malware_Analyzer/
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/YOUR-GITHUB-USERNAME/PDF-Malware-Analyzer.git
+git clone https://github.com/Harz08/PDF-Malware-Analyzer.git
 
 # 2. Go into the folder
 cd PDF-Malware-Analyzer
